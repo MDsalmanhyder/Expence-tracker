@@ -12,3 +12,10 @@ A simple and interactive web app to track and visualize your daily expenses. Bui
 - Visualizes total spending per category with bar charts.
 - User-friendly UI powered by Streamlit.
 
+## Screenshot
+
+<img width="1889" height="866" alt="Screenshot 2026-04-26 135732" src="https://github.com/user-attachments/assets/cb376d24-6ed0-4e26-ac40-10e87f47c6cc" />
+
+
+
+
